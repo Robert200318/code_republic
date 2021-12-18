@@ -1,0 +1,5 @@
+cr_mov cr_eax, 5 :
+cr_print cr_eax :
+cr_mov cr_ebx, 12 :
+cr_add cr_eax, cr_ebx :
+cr_print cr_eax :
